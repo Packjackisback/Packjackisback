@@ -1,4 +1,4 @@
-Hi! I'm just going to post simple code/ packagesthat aren't my work.
+Hi! I'm just going to post simple code/ packages.
 I'm inactive, and don't expect much.
 
 
