@@ -2,9 +2,7 @@ Hi! I'm just going to post simple code/ packages.
 I'm inactive, and don't expect much.
 
 
-I do like coding malware/ keyloggers.
+Big stuff in the works!
 
-<!---
-Packjackisback/Packjackisback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=packjackisback)](https://github.com/ryo-ma/github-profile-trophy)
