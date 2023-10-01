@@ -13,5 +13,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=packjackisback&show_icons=true&theme=dark&title_color=ffffff&text_color=4c32a9&hide_border=true&locale=en" alt="packjackisback" /></p>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+
+<h1 align="center">What I'm doing:</h1>
 <a href="https://tag.rc24.xyz/user/994965441963376640"><img src="https://tag.rc24.xyz/994965441963376640/tag.png" alt="RiiTag" /></a>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31bckvdwodxqi2swdf2skkkv6hum&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31bckvdwodxqi2swdf2skkkv6hum&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
