@@ -1,7 +1,4 @@
 <h1 align="center">my name is jackson</h1>
-
-[![cool stats dude](https://readme-stats-bay-nine.vercel.app/api?username=packjackisback)](https://github.com/anuraghazra/github-readme-stats)
-
 [![cool stats dude](https://readme-stats-bay-nine.vercel.app/api/top-langs?username=packjackisback&hide=javascript,html,css,typescript,python)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -9,4 +6,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=packjackisback&theme=onedark" alt="packjackisback" /></a> </p>
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&redirect=true)
