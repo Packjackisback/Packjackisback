@@ -1,11 +1,35 @@
-<h1 align="center">my name is jackson</h1>
+<h1 align="center">Hi, I'm Jackson 👋</h1>
 
+---
 
-[![cool stats dude](https://readme-stats-bay-nine.vercel.app/api/top-langs?username=packjackisback&hide=javascript,html,css,typescript,python)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Languages" src="https://readme-stats-bay-nine.vercel.app/api/top-langs?username=packjackisback&hide=javascript,html,css,typescript,python" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=packjackisback&label=Profile%20views&color=0e75b6&style=plastic" alt="packjackisback" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=packjackisback&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=packjackisback&theme=onedark" alt="packjackisback" /></a> </p>
+---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&redirect=true)
+### Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=packjackisback&theme=onedark" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  </a>
+</p>
