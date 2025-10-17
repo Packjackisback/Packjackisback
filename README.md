@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://readme-stats-bay-nine.vercel.app/api/top-langs?username=packjackisback&hide=javascript,html,css,typescript,python" />
+    <img alt="Top Languages" src="https://readme-stats-bay-nine.vercel.app/api/top-langs?username=packjackisback&hide=javascript,html,css,typescript,python,scss" />
   </a>
 </p>
 
