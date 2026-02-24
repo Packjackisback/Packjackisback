@@ -28,6 +28,6 @@
 
 ### Now Playing
 
-<p align="center">
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=packjackisback&count=1)
-</p>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=packjackisback&count=1)
+
