@@ -29,7 +29,5 @@
 ### Now Playing
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bckvdwodxqi2swdf2skkkv6hum&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
+  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=packjackisback&count=1)
 </p>
