@@ -1,4 +1,4 @@
-<h1 align="center">I am Jackson.</h1>
+<h1 align="center">Hi, I am Jackson MacGregor. Check out my website at https://jacksonm.dev</h1>
 
 ---
 
@@ -25,9 +25,3 @@
 </p>
 
 ---
-
-### Now Playing
-
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=packjackisback&count=1)
-
