@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Jackson MacGregor. Check out my website at [https://jacksonm.dev](https://jacksonm.dev)</h1>
+<h1 align="center">Hi, I am Jackson MacGregor. Check out my website at https://jacksonm.dev</h1>
 
 ---
 
